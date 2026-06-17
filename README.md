@@ -11,9 +11,9 @@
 
 | Папка | Содержание |
 |-------|------------|
-| `bug-reports/` | Баг-репорты |
-| `checklists/` | Чек-листы для регрессионного тестирования |
-| `test-cases/` | Подробные тест-кейсы с предварительными условиями и шагами |
+| [bug-reports](https://github.com/Midas769/QA-samples/tree/main/bug-reports) | Баг-репорты |
+| [checklists](https://github.com/Midas769/QA-samples/tree/main/checklists) | Чек-листы для регрессионного тестирования |
+| [test-cases](https://github.com/Midas769/QA-samples/tree/main/test-cases) | Подробные тест-кейсы с предварительными условиями и шагами |
 
 
 ## 🎯 Цель этого репозитория
